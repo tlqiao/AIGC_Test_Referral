@@ -5,7 +5,8 @@ V2版本在V1版本基础上进行的增强，V2版本该用gradio作为开发�
 
 * [V2版本应用介绍信息](https://github.com/tlqiao/AIGC_Test_Referral/blob/main/doc/speedtestV2/intro_v2.md)
 * V2版本工具使用视频演示
-* [!V2 app home page](https://github.com/tlqiao/AIGC_Test_Referral/blob/main/doc/speedtestV2/home.png)
+* V2 App home page
+![image](https://github.com/tlqiao/AIGC_Test_Referral/blob/main/doc/speedtestV2/home.png)
 
 * [V1版本应用介绍信息](https://github.com/tlqiao/AIGC_Test_Referral/blob/main/doc/speedtestV1/intro_v1.md)
 * V1版本工具使用视频演示
