@@ -19,7 +19,6 @@
 * Set Env, Env varible name is "OPENAI_API_KEY"
 
 ##### Start app from source code
-* pip install -r requirements.txt
 * python ./app.py
 
 
